@@ -8,4 +8,4 @@ then writes the encrypted words to a ciphertext.
 A test run was done with a plaintext file(plain.dat) with random words, encrypted with the Caesar Cipher 
 function and then written to a ciphertext(cipher.dat) - using a key of 3.
 # crypto
-# crypto
+
